@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Essa Shehab</h1>
-<h3 align="center">Mobile Developer Expert for #Flutter + #Dart, #Kotlin, #Python, #PHP / #Laravel</h3>
+<h3 align="center">Mobile Developer Expert for Flutter + Dart, Kotlin, Python, PHP / Laravel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=essashehab99&label=Profile%20views&color=0e75b6&style=flat" alt="essashehab99" /> </p>
 
